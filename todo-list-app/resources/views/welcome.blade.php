@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Todo List App</title>
+    <title>Atul Pratap Singh - VaahCMS Training</title>
     @vite('resources/js/app.js')
 </head>
 <body>
