@@ -109,8 +109,8 @@
           description: ''
         },
         editTodoData: null,
-        currentTab: 'all', // Default tab
-        isEditing: false // Flag to check if editing or creating
+        currentTab: 'all', 
+        isEditing: false 
       };
     },
     computed: {
